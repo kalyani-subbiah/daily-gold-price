@@ -55,6 +55,8 @@ ui <- fluidPage(theme = shinytheme("flatly"),
                                  max = 51)),
                   
                   mainPanel(plotlyOutput("lineChart1"), 
+                            br(),
+                            br(),
                             plotlyOutput("lineChart2")
                   )
                     )
