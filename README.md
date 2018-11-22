@@ -8,7 +8,7 @@ Dashboard for gold prices over time (updated daily). Made with R-Shiny and Plotl
 3) 7-day differences
 4) 30-day differences
 
-## Chart 2: Rolling correlation with yields of Treasury bills, notes and bonds. 
+## Chart 2: Rolling correlation with yields of Treasury bills, notes and bonds. (from 1990)
 See: https://www.springer.com/cda/content/document/cda_downloaddocument/9780387279657-c1.pdf?SGWID=0-0-45-169676-p59330694 for an explanation of rolling correlation for forecasting.
 
 ## Steps to run app:
