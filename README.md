@@ -4,8 +4,8 @@ Dashboard for gold prices over time (updated daily). Made with R-Shiny and Plotl
 
 ## Chart 1: Time-series plots: (from 1979)
 1) Daily Gold Price
-2) One-day differences
-3) Seven-day differences
+2) 1-day differences
+3) 7-day differences
 4) 30-day differences
 
 ## Chart 2: Rolling correlation with yields of Treasury bills, notes and bonds. 
