@@ -11,6 +11,12 @@ Dashboard for gold prices over time (updated daily)
 ## Chart 2: Rolling correlation with yields of Treasury bills, notes and bonds. 
 See: https://www.springer.com/cda/content/document/cda_downloaddocument/9780387279657-c1.pdf?SGWID=0-0-45-169676-p59330694 for an explanation of rolling correlation for forecasting.
 
+## Steps to run app:
+1) If you have a github profile, copy the following into an R console/Rstudio and press ENTER:
+runGitHub( “daily-gold-price”, "kalyani-subbiah")
+2) If you don't have a github profile, copy the following into an R console/Rstudio and press ENTER:
+runGist("63e9b4194eb2889645666120c95a258c")
+
 **Data sources**: Quandl APIs from World Gold Council and US Treasury. 
 
 Ongoing. 
