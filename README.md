@@ -12,9 +12,13 @@ Dashboard for gold prices over time (updated daily)
 See: https://www.springer.com/cda/content/document/cda_downloaddocument/9780387279657-c1.pdf?SGWID=0-0-45-169676-p59330694 for an explanation of rolling correlation for forecasting.
 
 ## Steps to run app:
+
 Copy the following into an R console/Rstudio and press ENTER:
+
 *runGitHub( “daily-gold-price”, "kalyani-subbiah")*
+
 Or copy the following into an R console/Rstudio and press ENTER:
+
 *runGist("63e9b4194eb2889645666120c95a258c")*
 
 **Data sources**: Quandl APIs from World Gold Council and US Treasury. 
