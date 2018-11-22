@@ -190,7 +190,7 @@ server <- function(input, output) {
               range = c(date_1, date_2)
     )
     plot_ly(df, x = ~date1, y = ~result, type = 'scatter', mode = 'lines', line = list(color = '666666', width = 1)) %>% 
-      layout( xaxis = b, yaxis = a)
+      layout( title = "Chart 2: Rolling Correlation with Gold Price ($)", xaxis = b, yaxis = a)
   })
 }
 
