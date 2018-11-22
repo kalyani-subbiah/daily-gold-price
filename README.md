@@ -16,4 +16,4 @@ See: https://www.springer.com/cda/content/document/cda_downloaddocument/97803872
 Ongoing. 
 
 To be added:
-Rolling correlation with spot exchange rates of four largest consuing countries: China, India, US, Germany.
+Rolling correlation with spot exchange rates of four largest gold consumers: China, India, US, Germany.
