@@ -21,9 +21,10 @@ Or copy the following into an R console/Rstudio and press ENTER:
 
 *runGist("63e9b4194eb2889645666120c95a258c")*
 
-**Data sources**: Quandl APIs from World Gold Council and US Treasury. 
+#### Data sources
+Quandl APIs from World Gold Council and US Treasury. 
 
+###### Notes
 Ongoing. 
-
 To be added:
 Rolling correlation with spot exchange rates of four largest gold consumers: China, India, US, Germany.
