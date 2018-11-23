@@ -16,11 +16,13 @@ See: https://www.springer.com/cda/content/document/cda_downloaddocument/97803872
 Type the following into an R console/Rstudio and press ENTER:
 
 *library(shiny)
+
 runGitHub( “daily-gold-price”, "kalyani-subbiah")*
 
 Or type the following into an R console/Rstudio and press ENTER:
 
 *library(shiny)
+
 runGist("63e9b4194eb2889645666120c95a258c")*
 
 #### Data sources
