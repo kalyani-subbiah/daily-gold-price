@@ -15,15 +15,15 @@ See: https://www.springer.com/cda/content/document/cda_downloaddocument/97803872
 
 Type the following into an R console/Rstudio and press ENTER:
 
-*library(shiny)
+*library(shiny)*
 
-runGitHub( “daily-gold-price”, "kalyani-subbiah")*
+*runGitHub( “daily-gold-price”, "kalyani-subbiah")*
 
 Or type the following into an R console/Rstudio and press ENTER:
 
-*library(shiny)
+*library(shiny)*
 
-runGist("63e9b4194eb2889645666120c95a258c")*
+*runGist("63e9b4194eb2889645666120c95a258c")*
 
 #### Data sources
 Quandl APIs from World Gold Council and US Treasury. 
