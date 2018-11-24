@@ -13,17 +13,19 @@ See: https://www.springer.com/cda/content/document/cda_downloaddocument/97803872
 
 ## Steps to run app:
 
-Type the following into an R console/Rstudio and press ENTER:
+Type the following into an R console and press ENTER:
 
 *library(shiny)*
 
 *runGitHub( “daily-gold-price”, "kalyani-subbiah")*
 
-Or type the following into an R console/Rstudio and press ENTER:
+Or type the following into an R console and press ENTER:
 
 *library(shiny)*
 
 *runGist("63e9b4194eb2889645666120c95a258c")*
+
+(Run install.packages('shiny') if above does not work)
 
 #### Data sources
 Quandl APIs from World Gold Council and US Treasury. 
