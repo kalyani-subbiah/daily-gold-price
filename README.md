@@ -1,6 +1,6 @@
 # gold-price-analysis
 
-Dashboard for gold prices over time (updated daily). Made with R-Shiny and Plotly.
+Dashboard for daily gold price over time. Made with R-Shiny and Plotly.
 
 ## Chart 1: Time-series plots: (from 1979)
 1) Daily Gold Price
